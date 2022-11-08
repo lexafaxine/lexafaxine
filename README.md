@@ -4,7 +4,7 @@
 
 <strong>A master's student at Waseda University.</strong>
 
-<strong>My primary research interests is Natural Language Processing!  </strong>
+<strong>My primary research interests is Natural Language Processing and Front-end engineering!  </strong>
 
 </pre> 
 

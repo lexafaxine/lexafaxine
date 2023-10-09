@@ -10,12 +10,24 @@
 
 </pre> 
 
-### 🛠 &nbsp;My Tech Stack
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-![TensorFlow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=tensorflow)
+### 🛠 &nbsp;My Tech Stack### Skill Stack
+<div>
+</div>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=50 width=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height=50 width=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=50 width=50 />
+</div>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50 width=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=50 width=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=50 width=50 />
+</div>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height=50 width=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=50 width=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height=50 width=50 />
+</div>
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:lexafaxine@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lexafaxine@gmail.com-blue?style=flat-square&logo=gmail"></a>

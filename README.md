@@ -10,7 +10,7 @@
 
 </pre> 
 
-### 🛠 &nbsp;My Tech Stack### Skill Stack
+### 🛠 &nbsp;My Tech Stack
 <div>
 </div>
 <div>

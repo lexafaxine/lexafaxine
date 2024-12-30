@@ -2,11 +2,7 @@
      
 <strong>Hi, I am Lif!👋 </strong>
 
-<strong>A master's student at Waseda University.</strong>
-
-<strong>My primary research interests is Natural Language Processing.  </strong>
-
-<strong>I am also interested in backend & front end engineering :)  </strong>
+<strong>A full stack engineer working in Tokyo, Japan.</strong>
 
 </pre> 
 

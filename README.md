@@ -2,7 +2,7 @@
      
 <strong>Hi, I am Lif!👋 </strong>
 
-<strong>A full stack engineer working in Tokyo, Japan. @Rakuten</strong>
+<strong>A full stack engineer working in Tokyo, Japan</strong>
 
 </pre> 
 
